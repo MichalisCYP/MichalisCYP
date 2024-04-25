@@ -9,7 +9,7 @@
 
 - 🤝 The top pick from my projects is [Smart Hotel Monitoring System incorporating Arduino](https://github.com/MichalisCYP/)
 
-- 👨‍💻 All of my projects are available at [https://michaliscyp.github.io/](https://michaliscyp.github.io/)
+- 👨‍💻 All of my projects are available at [https://michaliscyp.github.io/](https://michaliscyp.github.io/) - Source code is not available due to University Restrictions.
 
 - 📫 How to reach me **michaelkaramichalis@gmail.com**
 
