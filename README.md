@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael Karamichalis</h1>
 <h3 align="center">Computer Science Student at the University of South Wales</h3>
 
-- 🔭 I’m currently working on [my Portfolio Website](https://michaliscyp.github.io/)
+- 🔭 I’m currently working on [my Final Year project on Student Mentoring](https://michaliscyp.github.io/)
 
 - 🌱 I’m currently learning **Mobile App Development -React Native, Expo**
 
