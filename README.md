@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my Portfolio Website](https://michaliscyp.github.io/)
 
-- 🌱 I’m currently learning **Web Development - JavaScript, Mobile App Development - Flutter**
+- 🌱 I’m currently learning **, Mobile App Development -React Native, Expo**
 
 - 💯 My most recently completed project is [Starbucks GIS Cyprus](https://github.com/MichalisCYP/)
 
